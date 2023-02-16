@@ -1,0 +1,2 @@
+a = "hii! My name is g G Harsh G"
+print(a.replace('G','Goyal'))
